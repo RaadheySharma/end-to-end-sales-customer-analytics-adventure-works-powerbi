@@ -107,6 +107,9 @@ Data Includes:
 
 ## 🖼 Dashboard Screenshots
 ![Dashboard Preview](https://github.com/RaadheySharma/end-to-end-sales-customer-analytics-adventure-works-powerbi/blob/main/Executive_Dashboard.png)
+![Map](https://github.com/RaadheySharma/end-to-end-sales-customer-analytics-adventure-works-powerbi/blob/main/Total%20Customer%20by%20Country.png)
+![Product Detail](https://github.com/RaadheySharma/end-to-end-sales-customer-analytics-adventure-works-powerbi/blob/main/Product%20Detail%20Summary.png)
+![Customer Analytics](https://github.com/RaadheySharma/end-to-end-sales-customer-analytics-adventure-works-powerbi/blob/main/Customer%20Analysis.png)
 
 ---
 
