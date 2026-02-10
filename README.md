@@ -1,7 +1,7 @@
 # 📊 End-to-End Sales & Customer Analytics Dashboard (Power BI)
 
 ## Project Overview
-This project showcases a comprehensive end-to-end business dashboard developed using Power BI. The dashboard aims to provide a way to track KPIs (Sales,Revenue,Profit,Returns), compare regional performance across 6 nations(USA,Canada,Australia, France, UK and Germany), analyze product level trends and identify high value customers. 
+This project showcases a comprehensive end-to-end business dashboard developed using Power BI. The dashboard aims to provide a way to track KPIs (Sales,Orders,Profit,Returns), compare regional performance across 6 nations(USA,Canada,Australia, France, UK and Germany), analyze product level trends and identify high value customers. 
 
 ## 🎯 Business Objective
 - Monitor revenue, profit, orders, and return rates and present them through KPI Cards 
